@@ -1,14 +1,14 @@
 # Hi, I'm Piyush Naula 👋
 
-🎓 B.Tech CSE (AI & ML) | 2023–2027  
-📍 India  
-🤖 GenAI / ML Engineer (Student)  
+B.Tech CSE (AI & ML) | 2023–2027  
+India  
+GenAI / ML Engineer (Student)  
 
 I build **end-to-end AI systems** — from data → model → evaluation → deployment.
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - Build **RAG systems** for QA and code understanding  
 - Design **GenAI pipelines** using LangChain & LangGraph  
@@ -18,7 +18,7 @@ I build **end-to-end AI systems** — from data → model → evaluation → dep
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:**  
 Python • SQL • JavaScript • C  
@@ -37,13 +37,13 @@ AWS • Docker • Git • Streamlit • LangSmith • Render
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🔹 Text2Learn – AI Course Generation Platform
 - Built a multi-step GenAI system that generates full courses (units → lessons → quizzes)  
 - Designed LangGraph pipeline with RAG-based caching to reduce LLM cost  
 - Integrated Groq LLM + ChromaDB for efficient retrieval  
-👉 GitHub: https://github.com/piyushnaula/text2learn
+GitHub: https://github.com/piyushnaula/text2learn
 
 ---
 
@@ -52,7 +52,7 @@ AWS • Docker • Git • Streamlit • LangSmith • Render
 - Designed full RAG pipeline with semantic chunking and embeddings  
 - Achieved >90% retrieval relevance on large codebases  
 - Added LangSmith tracing for debugging and observability  
-👉 GitHub: https://github.com/piyushnaula/Source-Code-Analyzer
+GitHub: https://github.com/piyushnaula/Source-Code-Analyzer
 
 ---
 
@@ -60,26 +60,26 @@ AWS • Docker • Git • Streamlit • LangSmith • Render
 - Built ML pipeline comparing 4 models (LR, RF, XGBoost, DL)  
 - Achieved ~83% ROC-AUC using SMOTE + tuning  
 - Created Streamlit dashboard with SHAP for explainability  
-👉 GitHub: https://github.com/piyushnaula/Proactive-Retention-Engine-using-ML
+GitHub: https://github.com/piyushnaula/Proactive-Retention-Engine-using-ML
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Data Science Intern – Navodita Infotech**  
 - Built a music recommendation system on 62K+ tracks using hybrid filtering 0  
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🥇 Smart India Hackathon (SIH) 2025 – Selected team  
-- 🌍 NASA Space Apps Challenge 2025 participant (57K+ participants)  
-- 📜 Certifications in GenAI, Data Science, Deep Learning  
+- Smart India Hackathon (SIH) 2025 – Selected team  
+- NASA Space Apps Challenge 2025 participant (57K+ participants)  
+- Certifications in GenAI, Data Science, Deep Learning  
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 - Advanced RAG systems  
 - ML system design  
@@ -87,11 +87,11 @@ AWS • Docker • Git • Streamlit • LangSmith • Render
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: https://linkedin.com/in/piyushnaula  
 - Email: thakurnaula001@gmail.com 
 
 ---
 
-⭐ I focus on building real-world AI systems that solve practical problems
+I focus on building real-world AI systems that solve practical problems
